@@ -1,0 +1,17 @@
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\bin\Debug\net6.0\DesafioAPI.exe
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\bin\Debug\net6.0\DesafioAPI.deps.json
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\bin\Debug\net6.0\DesafioAPI.runtimeconfig.json
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\bin\Debug\net6.0\DesafioAPI.dll
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\bin\Debug\net6.0\DesafioAPI.pdb
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.csproj.AssemblyReference.cache
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.AssemblyInfoInputs.cache
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.AssemblyInfo.cs
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.csproj.CoreCompileInputs.cache
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.dll
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\refint\DesafioAPI.dll
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.pdb
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.genruntimeconfig.cache
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\ref\DesafioAPI.dll
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maria.pedroso\Documents\DesafioAPI\DesafioAPI\obj\Debug\net6.0\DesafioAPI.csproj.CopyComplete
